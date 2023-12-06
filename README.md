@@ -32,3 +32,9 @@ The script will output:
 
     Topics discovered from the ChatGPT reviews with the top words in each topic.
     A summary of sentiment analysis showing the sentiment distribution for each topic.
+
+
+Make sure to create a `requirements.txt` file that lists all the dependencies. You can generate this file by running `pip freeze > requirements.txt` in your project environment. This will pin down the exact versions of the packages you're using, which helps in reproducing the environment.
+
+
+
