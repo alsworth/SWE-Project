@@ -25,4 +25,8 @@ Follow these steps to set up your environment:
 4. Download the necessary NLTK data: import nltk 
    nltk.download('all')
 
+### Results
+The script will output:
 
+    Topics discovered from the ChatGPT reviews with the top words in each topic.
+    A summary of sentiment analysis showing the sentiment distribution for each topic.
