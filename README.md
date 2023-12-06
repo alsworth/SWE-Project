@@ -14,3 +14,16 @@ scikit-learn
 gensim
 textblob
 matplotlib
+
+### Installation
+
+Follow these steps to set up your environment:
+
+1. Clone this repository:
+2. Navigate to the project's directory: cd SWE-Project
+3. Install the required dependencies: pip install -r requirements.txt
+4. Download the necessary NLTK data:
+   import nltk
+   nltk.download('all')
+
+
